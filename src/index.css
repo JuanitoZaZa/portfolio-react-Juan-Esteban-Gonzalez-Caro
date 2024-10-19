@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* Define la fuente de texto */
+  background-color: rgb(28, 30, 29); /* Color de fondo */
+  color: rgb(253, 255, 254); /* Color de texto */
+  line-height: 1; /* Espaciado entre líneas */
+  height: 100vh; /* Asegura que el body ocupe toda la ventana */
+  box-sizing: border-box; /* Incluye padding y border dentro del tamaño definido */
+}
